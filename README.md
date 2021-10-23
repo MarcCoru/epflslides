@@ -2,5 +2,7 @@
 
 A Beamer Class following [EPFL corporate Design (2020)](https://inside.epfl.ch/corp-id/en/presentation/)
 
-![doc/preview]
+use via `\usetheme{epfl}` in the preamble. Check `main.tex` for more details.
+
+![preview](./doc/preview.png)
 
